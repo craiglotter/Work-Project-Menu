@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Work Project Menu">
+</Property><Property Name="Solution File" Value="C:\Work Projects\Completed Projects\Work Project Menu - 12 September 2005\Source Code\Work Project Menu\Work Project Menu.sln">
+</Property><Property Name="User Options File" Value="C:\Work Projects\Completed Projects\Work Project Menu - 12 September 2005\Source Code\Work Project Menu\Work Project Menu.suo">
+</Property><Property Name="Date" Value="17 May 2006">
+</Property><Property Name="Time" Value="13:36 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Work Project Menu.sln" Description="File successfully backed up as C:\Work Projects\Completed Projects\Work Project Menu - 12 September 2005\Source Code\Work Project Menu\Backup\Work Project Menu.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Work Project Menu.suo" Description="File successfully backed up as C:\Work Projects\Completed Projects\Work Project Menu - 12 September 2005\Source Code\Work Project Menu\Backup\Work Project Menu.suo">
+</Event><Event ErrorLevel="0" Project="Work Project Menu" Source="Work Project Menu.vbproj" Description="Project file successfully backed up as C:\Work Projects\Completed Projects\Work Project Menu - 12 September 2005\Source Code\Work Project Menu\Backup\Work Project Menu.vbproj">
+</Event><Event ErrorLevel="0" Project="Work Project Menu" Source="Work Project Menu.vbproj.user" Description="Project user file successfully backed up as C:\Work Projects\Completed Projects\Work Project Menu - 12 September 2005\Source Code\Work Project Menu\Backup\Work Project Menu.vbproj.user">
+</Event><Event ErrorLevel="0" Project="Work Project Menu" Source="AssemblyInfo.vb" Description="File successfully backed up as C:\Work Projects\Completed Projects\Work Project Menu - 12 September 2005\Source Code\Work Project Menu\Backup\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="Work Project Menu" Source="Display_Message.vb" Description="File successfully backed up as C:\Work Projects\Completed Projects\Work Project Menu - 12 September 2005\Source Code\Work Project Menu\Backup\Display_Message.vb">
+</Event><Event ErrorLevel="0" Project="Work Project Menu" Source="Main_Screen.vb" Description="File successfully backed up as C:\Work Projects\Completed Projects\Work Project Menu - 12 September 2005\Source Code\Work Project Menu\Backup\Main_Screen.vb">
+</Event><Event ErrorLevel="0" Project="Work Project Menu" Source="Splash_Screen.vb" Description="File successfully backed up as C:\Work Projects\Completed Projects\Work Project Menu - 12 September 2005\Source Code\Work Project Menu\Backup\Splash_Screen.vb">
+</Event><Event ErrorLevel="0" Project="Work Project Menu" Source="Startup_Module.vb" Description="File successfully backed up as C:\Work Projects\Completed Projects\Work Project Menu - 12 September 2005\Source Code\Work Project Menu\Backup\Startup_Module.vb">
+</Event><Event ErrorLevel="0" Project="Work Project Menu" Source="app.config" Description="File successfully backed up as C:\Work Projects\Completed Projects\Work Project Menu - 12 September 2005\Source Code\Work Project Menu\Backup\app.config">
+</Event><Event ErrorLevel="0" Project="Work Project Menu" Source="Application_Icon.ico" Description="File successfully backed up as C:\Work Projects\Completed Projects\Work Project Menu - 12 September 2005\Source Code\Work Project Menu\Backup\Application_Icon.ico">
+</Event><Event ErrorLevel="0" Project="Work Project Menu" Source="Display_Message.resx" Description="File successfully backed up as C:\Work Projects\Completed Projects\Work Project Menu - 12 September 2005\Source Code\Work Project Menu\Backup\Display_Message.resx">
+</Event><Event ErrorLevel="0" Project="Work Project Menu" Source="Main_Screen.resx" Description="File successfully backed up as C:\Work Projects\Completed Projects\Work Project Menu - 12 September 2005\Source Code\Work Project Menu\Backup\Main_Screen.resx">
+</Event><Event ErrorLevel="0" Project="Work Project Menu" Source="Splash_Screen.resx" Description="File successfully backed up as C:\Work Projects\Completed Projects\Work Project Menu - 12 September 2005\Source Code\Work Project Menu\Backup\Splash_Screen.resx">
+</Event><Event ErrorLevel="0" Project="Work Project Menu" Source="Work Project Menu.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Work Project Menu" Source="Work Project Menu.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Work Project Menu.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Work Project Menu.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Work Project Menu" Source="app.config" Description="File converted successfully. All &lt;supportedRuntime&gt; and &lt;requiredRuntime&gt; tags were removed to enable the project to build and run with Visual Studio 2005.">
+</Event><Event ErrorLevel="3" Project="Work Project Menu" Source="app.config" Description="Converted">
+</Event></UpgradeLog>
